@@ -1,3 +1,4 @@
+#comment
 FROM java:7
 COPY src /home/docker/exersize6.12/src
 WORKDIR /home/docker/exersize6.12
